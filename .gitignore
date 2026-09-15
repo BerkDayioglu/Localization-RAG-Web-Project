@@ -44,4 +44,4 @@ next-env.d.ts
 /.open-next/
 /.wrangler/
 .dev.vars
-.dev.vars*
+.dev.vars.local

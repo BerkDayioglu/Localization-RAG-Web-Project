@@ -1,0 +1,6 @@
+# Yerel `wrangler dev` / `npm run cf:preview` için kullanılır.
+# Bu dosyayı .dev.vars olarak kopyala ve gerçek değeri gir.
+# .dev.vars asla git'e commit edilmemeli (zaten .gitignore'da).
+N8N_WEBHOOK_URL="https://senin-n8n-domainin.com/webhook/lokalizasyon-localize"
+
+#n8n
