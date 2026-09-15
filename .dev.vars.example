@@ -3,4 +3,3 @@
 # .dev.vars asla git'e commit edilmemeli (zaten .gitignore'da).
 N8N_WEBHOOK_URL="https://senin-n8n-domainin.com/webhook/lokalizasyon-localize"
 
-#n8n
